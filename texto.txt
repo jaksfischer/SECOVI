@@ -1,0 +1,6 @@
+Neste texto especial, iremos fazer a extração das linhas que contenham uma determinada palavra.
+É ESPECIAL a forma com a qual isso será feito...
+Muito EsPeCiAl será o resultado final desta tarefa.
+EspeciaL será a finalização disso tudo.
+
+E aqui, apenas um texto, sem nada de importante.
